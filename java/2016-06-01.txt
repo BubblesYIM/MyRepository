@@ -1,0 +1,6 @@
+ObjectMapper objectMapper = new ObjectMapper();
+Map<String, String> dataMap = objectMapper.readValue(json, new TypeReference<HashMap<String, String>>() {});
+
+
+
+jdbc:oracle:thin:@(DESCRIPTION =(ADDRESS = (PROTOCOL = TCP)(HOST = rac04-scan.jinjiang.com)(PORT = 1521))(CONNECT_DATA = (SERVER = DEDICATED)(SERVICE_NAME = jjepdb)))
