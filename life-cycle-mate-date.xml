@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lifecycleMappingMetadata>
+  <pluginExecutions>
+    <pluginExecution>
+      <pluginExecutionFilter>
+        <groupId>net.alchim31.maven</groupId>
+        <artifactId>scala-maven-plugin</artifactId>
+        <goals>
+          <goal>add-source</goal>
+          <goal>compile</goal>
+          <goal>testCompile</goal>
+        </goals>
+        <versionRange>[3.2.0,)</versionRange>
+      </pluginExecutionFilter>
+      <action>
+        <execute />
+      </action>
+    </pluginExecution>
+  </pluginExecutions>
+</lifecycleMappingMetadata>
