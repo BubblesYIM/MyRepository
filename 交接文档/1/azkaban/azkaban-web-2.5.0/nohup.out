@@ -1,0 +1,162 @@
+Using Hadoop from 
+Using Hive from 
+bin/..
+:bin/../lib/azkaban-2.5.0.jar:bin/../lib/commons-collections-3.2.1.jar:bin/../lib/commons-configuration-1.8.jar:bin/../lib/commons-dbcp-1.4.jar:bin/../lib/commons-dbutils-1.5.jar:bin/../lib/commons-email-1.2.jar:bin/../lib/commons-fileupload-1.2.1.jar:bin/../lib/commons-io-2.4.jar:bin/../lib/commons-jexl-2.1.1.jar:bin/../lib/commons-lang-2.6.jar:bin/../lib/commons-logging-1.1.1.jar:bin/../lib/commons-pool-1.6.jar:bin/../lib/guava-13.0.1.jar:bin/../lib/h2-1.3.170.jar:bin/../lib/httpclient-4.2.1.jar:bin/../lib/httpcore-4.2.1.jar:bin/../lib/jackson-core-asl-1.9.5.jar:bin/../lib/jackson-mapper-asl-1.9.5.jar:bin/../lib/jetty-6.1.26.jar:bin/../lib/jetty-util-6.1.26.jar:bin/../lib/joda-time-2.0.jar:bin/../lib/jopt-simple-4.3.jar:bin/../lib/junit-4.8.jar:bin/../lib/log4j-1.2.16.jar:bin/../lib/mail-1.4.5.jar:bin/../lib/mysql-connector-java-5.1.28.jar:bin/../lib/servlet-api-2.5.jar:bin/../lib/slf4j-api-1.6.1.jar:bin/../lib/slf4j-log4j12-1.6.4.jar:bin/../lib/velocity-1.7.jar:bin/../lib/velocity-tools-2.0.jar:bin/../extlib/*.jar:bin/../plugins/*/*.jar:/conf:/*:/conf:/lib/*
+2016/06/24 08:19:51.467 +0000 ERROR [AzkabanWebServer] [Azkaban] Starting Jetty Azkaban Executor...
+2016/06/24 08:19:51.486 +0000 INFO [AzkabanServer] [Azkaban] Loading azkaban settings file from bin/../conf
+2016/06/24 08:19:51.487 +0000 INFO [AzkabanServer] [Azkaban] Loading azkaban properties file
+2016/06/24 08:19:51.497 +0000 INFO [AzkabanWebServer] [Azkaban] Setting up Jetty Https Server with port:9443 and numThreads:25
+2016/06/24 08:19:51.521 +0000 INFO [log] [Azkaban] Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2016/06/24 08:19:51.552 +0000 INFO [AzkabanWebServer] [Azkaban] Loading user manager class azkaban.user.XmlUserManager
+2016/06/24 08:19:51.581 +0000 INFO [XmlUserManager] [Azkaban] Loading user azkaban
+2016/06/24 08:19:51.583 +0000 INFO [XmlUserManager] [Azkaban] Loading user metrics
+2016/06/24 08:19:51.848 +0000 INFO [AzkabanWebServer] [Azkaban] Loading JDBC for project management
+2016/06/24 08:19:51.848 +0000 INFO [ExecutorManager] [Azkaban] Cleaning old logs from execution_logs
+2016/06/24 08:19:51.852 +0000 INFO [ProjectManager] [Azkaban] Project version retention is set to 3
+2016/06/24 08:19:51.902 +0000 INFO [ExecutorManager] [Azkaban] Cleaning old log files before 2016-04-01T08:19:51.857Z
+2016/06/24 08:19:51.903 +0000 INFO [ExecutorManager] [Azkaban] Cleaned up 0 log entries.
+2016/06/24 08:19:51.948 +0000 INFO [TriggerManager] [Azkaban] TriggerManager loaded.
+2016/06/24 08:19:51.948 +0000 INFO [AzkabanWebServer] [Azkaban] Loading built-in checker and action types
+2016/06/24 08:19:51.953 +0000 INFO [CheckerTypeLoader] [Azkaban] Registering checker BasicTimeChecker
+2016/06/24 08:19:51.953 +0000 INFO [CheckerTypeLoader] [Azkaban] Registering checker SlaChecker
+2016/06/24 08:19:51.953 +0000 INFO [CheckerTypeLoader] [Azkaban] Registering checker ExecutionChecker
+2016/06/24 08:19:51.953 +0000 INFO [ActionTypeLoader] [Azkaban] Registering action ExecuteFlowAction
+2016/06/24 08:19:51.953 +0000 INFO [ActionTypeLoader] [Azkaban] Registering action KillExecutionAction
+2016/06/24 08:19:51.953 +0000 INFO [ActionTypeLoader] [Azkaban] Registering action AlertAction
+2016/06/24 08:19:51.953 +0000 INFO [ActionTypeLoader] [Azkaban] Registering action CreateTriggerAction
+2016/06/24 08:19:51.953 +0000 INFO [AzkabanWebServer] [Azkaban] Loading trigger based scheduler
+2016/06/24 08:19:51.956 +0000 INFO [AzkabanWebServer] [Azkaban] Loading plug-in checker and action types
+2016/06/24 08:19:51.956 +0000 ERROR [AzkabanWebServer] [Azkaban] plugin path plugins/triggers doesn't exist!
+2016/06/24 08:19:51.962 +0000 INFO [AzkabanWebServer] [Azkaban] Setting timezone to America/Los_Angeles
+2016/06/24 08:19:51.962 +0000 INFO [AzkabanWebServer] [Azkaban] Registering MBeans...
+2016/06/24 08:19:51.980 +0000 INFO [AzkabanWebServer] [Azkaban] Bean azkaban.jmx.JmxJettyServer registered.
+2016/06/24 08:19:51.983 +0000 INFO [AzkabanWebServer] [Azkaban] Bean azkaban.jmx.JmxTriggerManager registered.
+2016/06/24 08:19:51.985 +0000 INFO [AzkabanWebServer] [Azkaban] Bean azkaban.jmx.JmxExecutorManager registered.
+2016/06/24 08:19:51.987 +0000 INFO [AzkabanWebServer] [Azkaban] Setting up web resource dir web/
+2016/06/24 08:19:52.041 +0000 INFO [JdbcTriggerLoader] [Azkaban] Loading all triggers from db.
+2016/06/24 08:19:52.068 +0000 INFO [JdbcTriggerLoader] [Azkaban] Loaded 0 triggers.
+2016/06/24 08:19:52.068 +0000 INFO [log] [Azkaban] jetty-6.1.26
+2016/06/24 08:19:52.171 +0000 INFO [log] [Azkaban] Started SslSocketConnector@0.0.0.0:9443
+2016/06/24 08:19:52.171 +0000 INFO [AzkabanWebServer] [Azkaban] Server running on ssl port 9443.
+2016/06/24 08:20:44.482 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id b8f3a1b8-ef75-4ecf-b16a-d921b944db6e
+2016/06/24 08:20:53.599 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id b8f3a1b8-ef75-4ecf-b16a-d921b944db6e
+2016/06/24 08:20:53.891 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:20:53.891 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:20:56.097 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:20:56.097 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:20:59.833 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:20:59.833 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:00.209 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:00.209 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:05.055 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:05.056 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:05.887 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:05.887 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:06.375 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:06.375 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:06.696 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:06.696 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:07.024 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:07.024 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:07.496 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:07.497 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:07.534 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:07.534 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:08.065 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:08.065 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:08.377 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:08.377 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:09.504 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:09.504 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:10.425 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:10.426 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:10.562 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:10.562 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:17.429 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:17.429 +0000 INFO [ProjectManagerServlet] [Azkaban] Create project Test
+2016/06/24 08:21:17.430 +0000 INFO [ProjectManager] [Azkaban] Trying to create Test by user azkaban
+2016/06/24 08:21:17.512 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:17.512 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:23.262 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:23.275 +0000 INFO [ProjectManagerServlet] [Azkaban] Uploading file test.zip
+2016/06/24 08:21:23.277 +0000 INFO [ProjectManager] [Azkaban] Uploading files to Test
+2016/06/24 08:21:23.278 +0000 INFO [ProjectManager] [Azkaban] Validating Flow for upload test.zip
+2016/06/24 08:21:23.283 +0000 INFO [ProjectManager] [Azkaban] Uploading file to db test.zip
+2016/06/24 08:21:23.283 +0000 INFO [JdbcProjectLoader] [Azkaban] Uploading to Test version:1 file:test.zip
+2016/06/24 08:21:23.283 +0000 INFO [JdbcProjectLoader] [Azkaban] Creating message digest for upload test.zip
+2016/06/24 08:21:23.284 +0000 INFO [JdbcProjectLoader] [Azkaban] Md5 hash created
+2016/06/24 08:21:23.288 +0000 INFO [JdbcProjectLoader] [Azkaban] Read bytes for test.zip size:416
+2016/06/24 08:21:23.288 +0000 INFO [JdbcProjectLoader] [Azkaban] Running update for test.zip chunk 0
+2016/06/24 08:21:23.288 +0000 INFO [JdbcProjectLoader] [Azkaban] Finished update for test.zip chunk 0
+2016/06/24 08:21:23.289 +0000 INFO [JdbcProjectLoader] [Azkaban] Commiting upload test.zip
+2016/06/24 08:21:23.289 +0000 INFO [ProjectManager] [Azkaban] Uploading flow to db test.zip
+2016/06/24 08:21:23.289 +0000 INFO [JdbcProjectLoader] [Azkaban] Uploading flows
+2016/06/24 08:21:23.296 +0000 INFO [JdbcProjectLoader] [Azkaban] UTF-8 size:449
+2016/06/24 08:21:23.296 +0000 INFO [JdbcProjectLoader] [Azkaban] Flow upload test2 is byte size 238
+2016/06/24 08:21:23.297 +0000 INFO [ProjectManager] [Azkaban] Changing project versions test.zip
+2016/06/24 08:21:23.297 +0000 INFO [ProjectManager] [Azkaban] Uploading Job properties
+2016/06/24 08:21:23.301 +0000 INFO [JdbcProjectLoader] [Azkaban] UTF-8 size:124
+2016/06/24 08:21:23.304 +0000 INFO [JdbcProjectLoader] [Azkaban] UTF-8 size:203
+2016/06/24 08:21:23.305 +0000 INFO [ProjectManager] [Azkaban] Uploading Props properties
+2016/06/24 08:21:23.305 +0000 INFO [ProjectManager] [Azkaban] Uploaded project files. Cleaning up temp files.
+2016/06/24 08:21:23.311 +0000 INFO [ProjectManager] [Azkaban] Cleaning up old install files older than -2
+2016/06/24 08:21:23.351 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:23.351 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:24.740 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:24.740 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:24.741 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:24.742 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:25.844 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:25.847 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:25.859 +0000 INFO [ExecutorManager] [Azkaban] Submitting execution flow test2 by azkaban
+2016/06/24 08:21:25.861 +0000 INFO [JdbcExecutorLoader] [Azkaban] Flow given test2 given id 8254
+2016/06/24 08:21:27.413 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:27.413 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:28.651 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:28.651 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:28.709 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:28.709 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+Fetching 8254
+2016/06/24 08:21:28.774 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:28.774 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+Fetching 8254
+2016/06/24 08:21:28.775 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:28.775 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:31.320 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:31.320 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:31.945 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:31.945 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:32.025 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:32.025 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:32.565 +0000 INFO [TriggerManager] [Azkaban] Flow finish event received. 8254
+2016/06/24 08:21:32.566 +0000 INFO [TriggerManager] [Azkaban] Flow finish event received. 8254
+2016/06/24 08:21:41.115 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:41.115 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:41.158 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:41.158 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:51.047 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:51.047 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:55.966 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:55.967 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:56.006 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:56.006 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:57.982 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:57.982 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:59.914 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:59.914 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:59.953 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:59.953 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:21:59.991 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:21:59.991 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:22:01.608 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:22:01.608 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:22:02.406 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:22:02.407 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/24 08:22:02.738 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Session id 6af0c2e2-ac07-4268-82f7-f2cae735c1b3
+2016/06/24 08:22:02.738 +0000 INFO [LoginAbstractAzkabanServlet] [Azkaban] Found session azkaban: [azkaban,]
+2016/06/25 08:19:51.903 +0000 INFO [ExecutorManager] [Azkaban] Cleaning old logs from execution_logs
+2016/06/25 08:19:51.903 +0000 INFO [ExecutorManager] [Azkaban] Cleaning old log files before 2016-04-02T01:19:51.903-07:00
+2016/06/25 08:19:51.904 +0000 INFO [ExecutorManager] [Azkaban] Cleaned up 0 log entries.
+2016/06/26 08:19:51.904 +0000 INFO [ExecutorManager] [Azkaban] Cleaning old logs from execution_logs
+2016/06/26 08:19:51.905 +0000 INFO [ExecutorManager] [Azkaban] Cleaning old log files before 2016-04-03T01:19:51.905-07:00
+2016/06/26 08:19:51.905 +0000 INFO [ExecutorManager] [Azkaban] Cleaned up 0 log entries.

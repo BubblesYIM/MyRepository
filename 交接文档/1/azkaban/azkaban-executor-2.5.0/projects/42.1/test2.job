@@ -1,0 +1,4 @@
+type=command
+working.dir=/usr/lib/hadoop/bin
+command=hadoop jar /usr/lib/hadoop/bin/hadoop-examples.jar wordcount /tmp/jarvis/examples.txt /tmp/jarvis/examples-out.txt
+dependencies=test

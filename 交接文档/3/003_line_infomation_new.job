@@ -1,0 +1,4 @@
+type=command
+command=/usr/lib/ngmr/run_app lexus-1.0-SNAPSHOT.jar com.jje.bigdata.travel.taglibrary.LineInformationNews
+working.dir=/home/member/bigdata
+dependencies=002_getJourney

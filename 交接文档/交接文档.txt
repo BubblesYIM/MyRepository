@@ -1,0 +1,11 @@
+1.aws上azkaban、zookeeper、kafka的搭建文档(纯文档)
+2.kpi统计相关程序及sql(旧版没有关联非直接查看过代码的cookie,新版关联非直接查看过跟踪代码的cookie,当时结果为:月度数据汇报—KPI相关.xlsx)(1天)
+3.旅游推荐系统(新增003_line_infomation_new.job和005_tagto_travel_new.job)给旅游线路多打上地点标签(1天)
+4.酒店推荐系统(修改com.jje.bigdata.hotel.hotelanalysis.StatUserTimeSeriesFreqInfo为com.jje.bigdata.hotel.hotelanalysis.SparkStatUserTimeSeriesFreqInfo更改为spark程序,同步执行,之前是单机,将内存数据库写死的数据改为动态读取com.jje.bigdata.travel.recommend.MyFunction,com.jje.bigdata.hotel.recommend.ComprehensiveRecommend改为增量读取)(1天)
+5.移动APP的用户标签(直接贴相关代码到目录)(3天)
+6.酒店的订单合并和酒店标签(同上)(3天)
+7.旅游标签(同上)(3天)
+8.邮件模版(所有txt都未更改,积分过期提醒只用了一个月那个,三个积分过期都是CRM_USER_POINTS_EXPIRED_O_TEMPLATE - 积分过期提醒（提前1个月）EDM.html母模版)(不需要时间,只是以前文件的一个备份)
+9.cosine和apriori算法(1天)
+
+以上代码部分,都有在svn上做版本管理

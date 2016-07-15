@@ -1,0 +1,281 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>我们很荣幸您能加入锦江礼享!</title>
+</head>
+<table border="0" cellspacing="0" cellpadding="0" width="0" height="0">
+<tr><td><img src="http://t1789.oadz.com/show;C;1789;272;6h1FFL1chAmL18XAlJfsePDTk00=;*;140;0?*" border="0" width="0" height="0" /></td></tr>
+</table>
+<body>
+<table width="714" border="0" align="center" cellpadding="0" cellspacing="0" style="color:#727171; font-family:微软雅黑;">
+  <tr>
+    <td align="center" valign="top"><br /><div style="font-size:12px; line-height:21px;">如果邮件内容无法正常显示，请<a href="http://a1789.oadz.com/link/C/1789/40554/.aOPWygIQZ7QK1wrBSY73FHpwCg_/p007/0/http://www.jinjiang.com/event/edm/2014new/welcomeyin.html" target="_blank" style="color:#007ccb; text-decoration:underline;">点击这里</a>。<br />
+      本邮件为系统自动发送。请勿直接回复。<br />
+    为确保我们的信息不被当做垃圾邮件处 理，请把锦江礼享<a href="mailto:J-ClubStatement@edm.ejinjiang.com" target="_blank" style="color:#007ccb; text-decoration:underline;">J-Club@edm.ejinjiang.com</a>添加为您的联系人！</div><br /></td>
+  </tr>
+  <tr>
+    <td height="1119" align="left" valign="top"><div style="border-color:#ddd; border-width:1px; border-style:solid; width:712px;"><table width="714" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="20" rowspan="8">&nbsp;</td>
+    <td width="672"><a href="http://club.jinjiang.com/" target="_blank"><img src="http://a1789.oadz.com/link/C/1789/40554/.aOPWygIQZ7QK1wrBSY73FHpwCg_/p007/0/http://www.jinjiang.com/event/edm/2014new/img/p1.png" width="672" height="130" /></a></td>
+    <td width="20" rowspan="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td><img src="http://www.jinjiang.com/event/edm/2014new/img/p24.png" width="672" height="57" border="0" usemap="#Map" /></td>
+  </tr>
+
+
+
+  <tr>
+    <td><table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+		  <td width="25%" align="left" valign="top" bgcolor="#f6f7fb">
+		      <table width="100%" height="130" border="0" cellpadding="0" cellspacing="0" style="color:#fff; font-size:12px;">
+                <tr>
+                  <td style="width:20px;">&nbsp;</td>
+				  <td><img src="http://www.jinjiang.com/event/edm/2014new/img/thankssilver.jpg" width="140" height="92" alt=""/></td>
+                </tr>
+              </table>
+		  </td>
+          <td width="25%" align="left" valign="top" bgcolor="#f6f7fb" style="border-right-style:solid;border-right-width:2px;border-right-color:#ffffff;">
+		  <table width="100%" height="130" border="0" cellpadding="0" cellspacing="0" style="color:#fff; font-size:12px;">
+            <tr>
+              <td colspan="3"><div style="height:10px; line-height:10px; font-size:10px;">&nbsp;</div></td>
+            </tr>
+            <tr>
+              <td width="1%">&nbsp;</td>
+              <td width="98%" valign="top">
+			     <div style="height:20px"></div>
+			     <div style="height:40px;font-size:16px;color:#59626a;font-weight:bold;">${Name}&nbsp;<img src="http://www.jinjiang.com/event/edm/2014new/img/p15.png" width="56" height="21" align="absmiddle" /></div></td>
+              <td width="1%">&nbsp;</td>
+            </tr>       
+		    <tr>
+              <td width="10%">&nbsp;</td>
+              <td width="89%"><a href="http://www.jinjiang.com/passer/signin?go=http%3A%2F%2Fclub.jinjiang.com%3A80%2Fpersonal" target="_blank"><img src="http://www.jinjiang.com/event/edm/2014new/img/p60.png" width="90" height="17" border="0" /></a></td>
+              <td width="1%">&nbsp;</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td></td>
+              <td>&nbsp;</td>
+            </tr>
+          </table>
+		  </td>
+        
+		  <td width="336px" align="left" valign="top" bgcolor="#f6f7fb">
+			<table width="100%" height="93" border="0" cellpadding="0" cellspacing="0">
+ 			 <tr>
+              <td style="font-size:12px;color:#ffffff;width:330px;" valign="top">
+			    <div style="height:18px;"></div>
+			  </td>
+             </tr>              
+			 <tr>
+              <td style="font-size:12px;color:#ffffff;width:330px;height:22px;" valign="top">
+			    <table border="0" cellpadding="0" cellspacing="0">
+				   <tr>
+				     <td style="width:30px;">&nbsp;</td>
+					 <td style="font-size:12px;color:#000000;">卡号：</td>
+					 <td style="font-size:14px;color:#cecea0;">${JJBE_Card_Number}</td>
+				   </tr>
+				</table>
+			  </td>
+             </tr>
+             <tr>
+              <td style="font-size:12px;color:#000000;width:330px;height:22px;" valign="top">
+			    <table border="0" cellpadding="0" cellspacing="0">
+				   <tr>
+				     <td style="width:30px;">&nbsp;</td>
+					 <td style="font-size:12px;color:#000000;">会员级别：</td>
+					 <td style="font-size:14px;color:#000000;">${Tier}</td>
+					 <td style="font-size:14px;color:#ffffff;"></td>
+				   </tr>
+				</table>
+			  </td>
+             </tr>
+             <tr>
+              <td style="font-size:12px;color:#ffffff;width:330px;height:22px;" valign="top">
+			    <table border="0" cellpadding="0" cellspacing="0">
+				   <tr>
+				     <td style="width:30px;">&nbsp;</td>
+					 <td style="font-size:12px;color:#000000;">距离下一级别：</td>
+					 <td style="font-size:14px;color:#000000;">${Up_Need_Points}积分</td>
+					 <td style="font-size:14px;color:#ffffff;"></td>
+				   </tr>
+				</table>
+			  </td>
+             </tr>
+             <tr>
+              <td style="font-size:12px;color:#ffffff;width:330px;height:22px;" valign="top">
+			    <table border="0" cellpadding="0" cellspacing="0">
+				   <tr>
+				     <td style="width:30px;">&nbsp;</td>
+					 <td style="font-size:12px;color:#000000;">距离下一级别：</td>
+					 <td style="font-size:14px;color:#000000;">${Up_Need_Nights}晚/次</td>
+					 <td style="font-size:14px;color:#ffffff;"></td>
+				   </tr>
+				</table>
+			  </td>
+             </tr>			  
+          </table>
+		 </td>
+        </tr>
+      </table></td>
+  </tr>
+  
+
+
+
+
+    
+	<tr>
+    <td></td>
+    </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+    <td>&nbsp;</td>
+     <td valign="top">
+	 <div><table width="100%" cellspacing="0" cellpadding="0" border="0" >
+		    <tbody>
+
+
+      <tr>
+        <td width="64%" align="left" valign="top">
+		   <div style="height:30px; line-height:30px; color:#0075c2; font-size:16px; border-bottom-color:66acda; border-bottom-style:solid; border-bottom-width:1px; margin-bottom:10px;">我们很荣幸您能加入锦江礼享!</div>
+           <div style="font-size:14px; line-height:24px;">从即刻起您便能享受全国超过1000家锦江酒店和锦江都城酒店的优质服务。同时您的每笔符合条件的消费均可获得锦江积分奖励。积分可兑换酒店住宿、旅行度假、机场接机、航空里程以及百余种精美礼品。现在就开启您的礼享之旅吧！</div>
+		    
+		</td>
+      </tr>
+
+
+
+
+
+
+
+
+			       <tr>
+				      <td style="height:10px;"></td>
+				   </tr>
+				   <tr >
+
+				   </tr> 
+			</tbody>
+		 </table>
+		 </div>
+	 </td>
+     <td>&nbsp;</td>
+      </tr>
+    </table></td>
+    </tr>
+	<tr>
+    <td>
+    	<div style="height:10px; line-height:10px; font-size:10px;">&nbsp;</div>
+		<table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-bottom:10px;">
+	  	<tbody>
+	      <tr>
+	          <td height="100px"><a href="http://a1825.oadz.com/link/C/1825/352/p6zx8P.-IpAeoQRiZNK.6BFLuCc_/p035/0/http://mall.jinjiang.com/pc/NoticeList.html?newsID=10" target="_blank"><img src="http://www.jinjiang.com/event/edm/13edm/img_welcome/miaosha330x100.jpg" width="330px" height="100px" border="0"/></td>
+	            <td height="100px" style="text-align:right"><a href="http://a1825.oadz.com/link/D/1825/351/fgE57mwle-LNvq48h06xplv-8G8_/p03e/0/http://mall.jinjiang.com/pc/GoodsList.html?keyword=精选&pid=0&" target="_blank"><img src="http://www.jinjiang.com/event/edm/13edm/img_welcome/jingxuan5zheduihuan330x100.jpg" width="330px" height="100px" border="0"/></td>
+	        </tr>
+	      </tbody>
+	    </table>
+    </td>
+    </tr>
+  <tr>
+    <td><img src="http://www.jinjiang.com/event/edm/2014new/img/p5.png" width="672" height="130" usemap="#MapX"/></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="81%" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td colspan="3"><img src="http://www.jinjiang.com/event/edm/2014new/img/p7.png" width="428" height="28" /></td>
+            </tr>
+            <tr>
+            <td colspan="3" bgcolor="#f3f4f5" ><div style="height:18px; line-height:18px; font-size:18px;">&nbsp;</div></td>
+            </tr>
+          <tr>
+            <td width="20%" align="left" valign="top" bgcolor="#f3f4f5"><img src="http://www.jinjiang.com/event/edm/2014new/img/p8.png" width="62" height="19" /></td>
+			<td width="75%" valign="top" bgcolor="#f3f4f5" style="font-size:12px;"><div style="padding-left:10px;">* 在锦江酒店以合格房价入住，每消费1元可获得2个积分<br/>* 在锦江都城、锦江之星、百时快捷、金广快捷以合格房价入住，每消费1元可获得1个积分</div></td>
+            <td width="5%" bgcolor="#f3f4f5">&nbsp;</td>
+          </tr>
+          
+          <tr>
+            <td colspan="3" bgcolor="#f3f4f5"><div style="height:18px; line-height:18px; font-size:18px;">&nbsp;</div></td>
+            </tr>
+          <tr>
+            <td valign="top" bgcolor="#f3f4f5"><img src="http://www.jinjiang.com/event/edm/2014new/img/p9.png" width="62" height="19" /></td>
+            <td bgcolor="#f3f4f5"><div style="font-size:12px;padding-left:10px;">* 在锦江酒店以合格房价入住，每消费1元可获得2.2个积分<br />
+* 在锦江都城、锦江之星、百时快捷、金广快捷以合格房价入住，每消费1元可获得1.2个积分</div></td>
+            <td bgcolor="#f3f4f5">&nbsp;</td>
+          </tr>
+          <tr>
+            <td colspan="3" bgcolor="#f3f4f5"><div style="height:18px; line-height:18px; font-size:18px;">&nbsp;</div></td>
+            </tr>
+          <tr>
+            <td bgcolor="#f3f4f5"><img src="http://www.jinjiang.com/event/edm/2014new/img/p10.png" width="62" height="19" /></td>
+            <td bgcolor="#f3f4f5"><div style="font-size:12px;padding-left:10px;">* 在锦江酒店以合格房价入住，每消费1元可获得3个积分<br />
+* 在锦江都城、锦江之星、百时快捷、金广快捷以合格房价入住，每消费1元可获得2个积分</div></td>
+            <td bgcolor="#f3f4f5">&nbsp;</td>
+          </tr>
+          <tr>
+            <td colspan="3" bgcolor="#f3f4f5"><div style="height:14px; line-height:14px; font-size:14px;">&nbsp;</div></td>
+            </tr>
+        </table></td>
+        <td width="19%" valign="top"><img src="http://www.jinjiang.com/event/edm/2014new/img/p6.png" width="244" height="250" border="0" usemap="#Map2"/></td>
+      </tr>
+    </table></td>
+    </tr>
+  <tr>
+    <td rowspan="9">&nbsp;</td>
+    <td><img src="http://www.jinjiang.com/event/edm/2014new/img/p11.png" width="665" height="111" /></td>
+    <td rowspan="9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td><img src="http://www.jinjiang.com/event/edm/2014new/img/p12.png" width="672" height="147" border="0" usemap="#Map3"/><map name="Map3" id="Map3">
+  <area shape="rect" coords="64,26,197,77" href="http://www.jinjiang.com/membercenter/member/showOrdinaryLoginPage?js_redirect=http://www.jinjiang.com/" target="_blank" />
+  <area shape="rect" coords="248,12,281,53" href="http://jinjianghotels.com/" target="_blank" />
+  <area shape="rect" coords="308,11,356,58" href="http://www.jinjiang.com/hotel/ducheng/" target="_blank" />
+  <area shape="rect" coords="377,9,423,55" href="http://www.jinjiang.com/hotel/jjinn/" target="_blank" />
+  <area shape="rect" coords="441,13,488,56" href="http://www.jinjiang.com/jinguang/" target="_blank" />
+  <area shape="rect" coords="509,15,558,56" href="http://www.jinjiang.com/hotel/bestayhotel/" target="_blank" />
+  <area shape="rect" coords="244,72,280,115" href="http://www.jinjiang.com/travel/shjjt/" target="_blank" />
+  <area shape="rect" coords="315,74,352,117" href="http://www.jinjiang.com/travel/sht/" target="_blank" />
+  <area shape="rect" coords="379,74,424,119" href="http://www.jinjiang.com/travel/shct/" target="_blank" />
+  <area shape="rect" coords="448,80,485,113" href="http://www.jinjiang.com/travel/" target="_blank" />
+  <area shape="rect" coords="511,74,555,114" href="http://www.jinjiang.com/auto/" target="_blank" />
+</map></td>
+  </tr>
+    </table>
+    </div>
+</td>
+  </tr>
+  <tr>
+    <td valign="top"><br /><div style="font-size:12px; line-height:21px; color:#727171;">
+      1. 您之所以收到这封邮件，是因为您是锦江礼享会员。我们保证仅向您发送关于锦江国际集团的产品、促销活动及服务的 电子 <br />
+邮件。锦江礼享会尊重并保护您的隐私。如果您不想收到此邮件，请点击此处，<a href="http://a1789.oadz.com/link/C/1789/40554/.aOPWygIQZ7QK1wrBSY73FHpwCg_/p007/0/http://club.jinjiang.com/memberInfo/mySubscription" target="_blank" style="color:#007ccb; text-decoration:underline;">取消订阅</a>。<br />
+2. 某些商品的价格或促销内容如有调整，请以网站(<a href="http://a1789.oadz.com/link/C/1789/40554/.aOPWygIQZ7QK1wrBSY73FHpwCg_/p007/0/http://www.jinjiang.com/" target="_blank" style="color:#007ccb; text-decoration:underline;">www.jinjiang.com</a>)上最终页面为准。<br />
+3.任何问题欢迎致电联系客服中心：1010-1666，或访问帮助中心 。</div><br /></td>
+  </tr>
+</table>
+<map name="MapX" id="MapX">
+  <area shape="rect" coords="2,38,161,119" href="http://club.jinjiang.com/MemberScores" />
+  <area shape="rect" coords="167,39,329,120" href="http://a1825.oadz.com/link/C/1825/355/IWWmS3q9MwuiEGPOw5woDWtUQrM_/p018/0/http://mall.jinjiang.com" />
+  <area shape="rect" coords="337,38,496,120" href="http://www.jinjiang.com/" />
+  <area shape="rect" coords="504,37,665,120" href="http://club.jinjiang.com/AboutJ-Club/MemberPrivileges" />
+</map>
+<map name="Map" id="Map">
+  <area shape="rect" coords="2,5,165,35" href="http://a1789.oadz.com/link/C/1789/40554/.aOPWygIQZ7QK1wrBSY73FHpwCg_/p007/0/http://club.jinjiang.com/promotion" target="_blank" />
+  <area shape="rect" coords="171,6,333,35" href="http://a1789.oadz.com/link/C/1789/40554/.aOPWygIQZ7QK1wrBSY73FHpwCg_/p007/0/http://mall.jinjiang.com/" target="_blank" />
+  <area shape="rect" coords="340,5,501,37" href="http://a1789.oadz.com/link/C/1789/40554/.aOPWygIQZ7QK1wrBSY73FHpwCg_/p007/0/http://club.jinjiang.com/personal" target="_blank" />
+  <area shape="rect" coords="508,6,670,40" href="http://a1789.oadz.com/link/C/1789/40554/.aOPWygIQZ7QK1wrBSY73FHpwCg_/p007/0/http://club.jinjiang.com/partner" target="_blank" />
+</map>
+<map name="Map2" id="Map2">
+  <area shape="rect" coords="28,33,245,80" href="http://a1789.oadz.com/link/C/1789/40554/.aOPWygIQZ7QK1wrBSY73FHpwCg_/p007/0/http://mall.jinjiang.com" target="_blank" />
+  <area shape="rect" coords="28,90,245,140" href="http://a1789.oadz.com/link/C/1789/40554/.aOPWygIQZ7QK1wrBSY73FHpwCg_/p007/0/http://www.jinjiang.com/event/zhusujl.html" target="_blank" />
+  <area shape="rect" coords="28,140,245,190" href="http://a1789.oadz.com/link/C/1789/40554/.aOPWygIQZ7QK1wrBSY73FHpwCg_/p007/0/http://www.jinjiang.com/travel/" target="_blank" />
+  <area shape="rect" coords="28,200,245,250" href="http://a1789.oadz.com/link/C/1789/40554/.aOPWygIQZ7QK1wrBSY73FHpwCg_/p007/0/http://www.jinjiang.com/auto/" target="_blank" />
+</map>
+</body>
+</html>

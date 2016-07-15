@@ -1,0 +1,202 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>%%{title}</title>
+</head>
+%%{click99Script}
+<body>
+<table width="714" border="0" align="center" cellpadding="0" cellspacing="0" style="color:#727171; font-family:微软雅黑;">
+  <tr>
+    <td align="center" valign="top"><br /><div style="font-size:12px; line-height:21px;">如果邮件内容无法正常显示，请<a href="%%{websiteTrace}http://www.jinjiang.com/edm/mail/%%{mailCode}" target="_blank" style="color:#007ccb; text-decoration:underline;">点击这里</a>。<br />
+      本邮件为系统自动发送。请勿直接回复。<br />
+    为确保我们的信息不被当做垃圾邮件处 理，请把锦江礼享<a href="mailto:J-ClubStatement@edm.ejinjiang.com" target="_blank" style="color:#007ccb; text-decoration:underline;">J-Club@edm.ejinjiang.com</a>添加为您的联系人！</div><br /></td>
+  </tr>
+  <tr>
+    <td height="1025" align="left" valign="top"><div style="border-color:#ddd; border-width:1px; border-style:solid; width:712px;"><table width="714" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="20" rowspan="11">&nbsp;</td>
+    <td width="672"><img src="http://www.jinjiang.com/event/edm/2014new/img_2/p71.png" width="672" height="130" /></td>
+    <td width="20" rowspan="11">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="672"><div style="height:30px; line-height:30px; font-size:16px; color:#0074c5;">尊敬的网站用户，卡号：${JJBE_Card_Number} </div></td>
+  </tr>
+  <tr><td><img src="%%{websiteTrace}http://www.jinjiang.com/event/edm/2014new/img_2/p72.png" width="672" height="1" /></td></tr>
+  <tr><td><div style="height:13px;">&nbsp;</div></td></tr>
+  <tr><td><img src="%%{websiteTrace}http://www.jinjiang.com/event/edm/2014new/img_2/p73.png" width="672" height="65" border="0" usemap="#Map" /></td></tr>
+  <tr><td><div style="height:19px;">&nbsp;</div></td></tr>
+  <tr><td><img src="%%{websiteTrace}http://www.jinjiang.com/event/edm/2014new/img_2/p74.png" width="672" height="27" /></td></tr>
+  <tr><td><div style="height:19px;">&nbsp;</div></td></tr>
+  <tr>
+  	<td>
+    	<table>
+        	<tbody>
+            	<tr>
+                	<td width="474" align="left" valign="top">
+                    	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        	<tbody>
+                            	<tr><td style="font-size:14px; height:24px; line-height:24px;"><span style="color:#d4b572">| 锦江酒店: </span>积分累计200%、酒店住宿房费95折</td></tr>
+                                <tr><td style="font-size:14px; height:24px; line-height:24px;"><span style="color:#d4b572">| 锦江都城: </span>积分累计100%、酒店住宿房费95折、酒店餐饮88折</td></tr>
+                                <tr><td style="font-size:14px; height:24px; line-height:24px;"><span style="color:#d4b572">| 锦江旅游: </span>积分累计100%（出境游）、积分累积50%（国内游）</td></tr>
+                                <tr><td style="font-size:14px; height:24px; line-height:24px;"><span style="color:#d4b572">| 锦江租车: </span>积分累计200%（租车费）</td></tr>
+                                <tr><td style="font-size:14px; height:24px; line-height:24px;"><span style="color:#d4b572">| 锦江4S服务: </span>积分累计100%（维修人工费）</td></tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td align="left" valign="top"><img src="%%{websiteTrace}http://www.jinjiang.com/event/edm/2014new/img_2/p75.png" width="169" height="136" /></td>
+                </tr>
+            </tbody>
+        </table>
+    </td>
+  </tr>
+  <tr>
+  	<td>
+	  <table width="674px" border="0" cellpadding="0" cellspacing="0" style="margin-bottom:10px;margin-top:10px;">
+	  	<tbody>
+	      <tr>
+	          <td height="100px"><a href="http://a1825.oadz.com/link/C/1825/352/p6zx8P.-IpAeoQRiZNK.6BFLuCc_/p035/0/http://mall.jinjiang.com/pc/NoticeList.html?newsID=10" target="_blank"><img src="http://www.jinjiang.com/event/edm/13edm/img_welcome/miaosha330x100.jpg" width="330px" height="100px" border="0"/></td>
+	            <td height="100px" style="text-align:right"><a href="http://a1825.oadz.com/link/D/1825/351/fgE57mwle-LNvq48h06xplv-8G8_/p03e/0/http://mall.jinjiang.com/pc/GoodsList.html?keyword=精选&pid=0&" target="_blank"><img src="http://www.jinjiang.com/event/edm/13edm/img_welcome/jingxuan5zheduihuan330x100.jpg" width="330px" height="100px" border="0"/></td>
+	        </tr>
+	      </tbody>
+	    </table>
+    	<table>
+        	<tbody>
+            	<tr>
+                	<td width="448" align="left" valign="top">
+                    	<table>
+                        	<tbody>
+                            	<tr><td><img src="%%{websiteTrace}http://www.jinjiang.com/event/edm/2014new/img_2/p76.png" width="427" height="14" /></td></tr>
+                                <tr><td><div style="height:21px;">&nbsp;</div></td></tr>
+                                
+                                <tr>
+                                	<td>
+                                    	<table>
+                                        	<tbody>
+                                            	<tr>
+                                                  <td align="left" valign="top"><a href="%%{websiteTrace}http://hotel.jinjiang.com/HotelDetail%%{HOTEL_PRODUCT1.value.url}" target="_blank"><img style="border:none; margin-top:2px; *margin-top:5px;" src="http://static.jinjiang.com/opt/static/hotel/%%{HOTEL_PRODUCT1.value.imgUrl}" width="162" height="91" /></a></td>
+                                            	  <td align="left" valign="top"><table>
+                                                      <tbody>
+                                                        <tr>
+                                                          <td style="line-height:12px;"><span>%%{HOTEL_PRODUCT1.value.name}</span></td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td style="font-size:12px;"><span style="line-height:12px;"></span></td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td style="line-height:12px;"><span style="margin-left:110px; *vertical-align:top; color:#d64c4c; font-size:12px;"><b style="font-size:16px;">￥%%{HOTEL_PRODUCT1.value.minPrice}</b>元起</span> <a href="%%{websiteTrace}http://hotel.jinjiang.com/HotelDetail%%{HOTEL_PRODUCT1.value.url}" target="_blank" style="vertical-align:middle"><img style="border:none;" src="http://www.jinjiang.com/event/edm/2014new/img_2/p79.png" width="51px" height="20px" /></a> </td>
+                                                        </tr>
+                                                      </tbody>
+                                                  </table></td>
+                                          	  </tr>
+                                            </tbody>
+                                        </table>                                    </td>
+                                </tr>
+                                <tr>
+                                	<td>
+                                    	<table>
+                                        	<tbody>
+
+                                            	<tr>
+                                                	<td align="left" valign="top" width="162"><a href="%%{websiteTrace}http://hotel.jinjiang.com/HotelDetail%%{HOTEL_PRODUCT2.value.url}" target="_blank"><img style="border:none; margin-top:2px; *margin-top:5px;" src="http://static.jinjiang.com/opt/static/hotel/%%{HOTEL_PRODUCT2.value.imgUrl}" width="162" height="91" /></a></td>
+                                                	<td width="258" align="left" valign="top">
+                                                        <table>
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td style="line-height:12px;"><span>%%{HOTEL_PRODUCT2.value.name}</span></td>
+                                                                </tr>
+                                                                <tr><td style="font-size:12px;"><span style="line-height:12px;"></span></td>
+                                                                </tr>
+                                                                <tr>
+                                                                	<td style="line-height:12px;">
+                                                                    	<span style="margin-left:110px; *vertical-align:top; color:#d64c4c; font-size:12px;"><b style="font-size:16px;">￥%%{HOTEL_PRODUCT2.value.minPrice}</b>元起</span>
+                                                                        <a href="%%{websiteTrace}http://hotel.jinjiang.com/HotelDetail%%{HOTEL_PRODUCT2.value.url}" target="_blank" style="vertical-align:middle"><img style="border:none;" src="http://www.jinjiang.com/event/edm/2014new/img_2/p79.png" width="51px" height="20px" /></a>                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>                                    </td>
+                                </tr>
+                                <tr>
+                                  <td><table>
+                                      <tbody>
+                                        <tr>
+                                          <td align="left" valign="top"><a href="%%{websiteTrace}http://hotel.jinjiang.com/HotelDetail%%{HOTEL_PRODUCT3.value.url}" target="_blank"><img style="border:none; margin-top:2px; *margin-top:5px;" src="http://static.jinjiang.com/opt/static/hotel/%%{HOTEL_PRODUCT3.value.imgUrl}" width="162" height="91" /></a></td>
+                                          <td align="left" valign="top"><table>
+                                              <tbody>
+                                                <tr>
+                                                  <td style="line-height:12px;"><span>%%{HOTEL_PRODUCT3.value.name}</span></td>
+                                                </tr>
+                                                <tr>
+                                                  <td style="font-size:12px;"><span style="line-height:12px;"></span></td>
+                                                </tr>
+                                                <tr>
+                                                  <td style="line-height:12px;"><span style="margin-left:110px; *vertical-align:top; color:#d64c4c; font-size:12px;"><b style="font-size:16px;">￥%%{HOTEL_PRODUCT3.value.minPrice}</b>元起</span> <a href="%%{websiteTrace}http://hotel.jinjiang.com/HotelDetail%%{HOTEL_PRODUCT3.value.url}" target="_blank" style="vertical-align:middle"><img style="border:none;" src="http://www.jinjiang.com/event/edm/2014new/img_2/p79.png" width="51px" height="20px" /></a> </td>
+                                                </tr>
+                                              </tbody>
+                                          </table></td>
+                                        </tr>
+                                      </tbody>
+                                  </table></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td align="left" valign="top">
+                    	<table>
+                        	<tbody>
+                            	<tr><td><img src="%%{websiteTrace}http://www.jinjiang.com/event/edm/2014new/img_2/p80.png" width="217px" height="14px" /></td></tr>
+                                <tr><td><div style="height:22px;">&nbsp;</div></td></tr>
+                                <tr><td><a href="%%{websiteTrace}http://mall.jinjiang.com" target="_blank"><img style="border:none;" src="%%{websiteTrace}http://www.jinjiang.com/event/edm/2014new/img_2/p81.png" width="218px" height="49px" /></a></td></tr>
+                                <tr><td><div style="height:2px;">&nbsp;</div></td></tr>
+                                <tr><td><a href="%%{websiteTrace}http://www.jinjiang.com/hotel/" target="_blank"><img style="border:none;" src="%%{websiteTrace}http://www.jinjiang.com/event/edm/2014new/img_2/p82.png" width="218px" height="49px" /></a></td></tr>
+                                <tr><td><div style="height:2px;">&nbsp;</div></td></tr>
+                                <tr><td><a href="%%{websiteTrace}http://www.jinjiang.com/travel/" target="_blank"><img style="border:none;" src="%%{websiteTrace}http://www.jinjiang.com/event/edm/2014new/img_2/p83.png" width="218px" height="49px" /></a></td></tr>
+                                <tr><td><div style="height:2px;">&nbsp;</div></td></tr>
+                                <tr><td><a href="%%{websiteTrace}http://www.jinjiang.com/auto/" target="_blank"><img style="border:none;" src="%%{websiteTrace}http://www.jinjiang.com/event/edm/2014new/img_2/p84.png" width="218px" height="49px" /></a></td></tr>
+                                <tr><td><div style="height:12px;">&nbsp;</div></td></tr>
+                                <tr><td><a href=""><img style="border:none;" src="%%{websiteTrace}http://www.jinjiang.com/event/edm/2014new/img_2/p85.png" width="218px" height="108px" /></a></td></tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><img src="http://www.jinjiang.com/event/edm/2014new/img_2/p86.png" width="672" height="147" border="0" usemap="#Map3"/>
+      <map name="Map3" id="Map3">
+        <area shape="rect" coords="64,26,197,77" href="http://www.jinjiang.com/membercenter/member/showOrdinaryLoginPage?js_redirect=http://www.jinjiang.com/" target="_blank" />
+        <area shape="rect" coords="248,12,281,53" href="http://jinjianghotels.com/" target="_blank" />
+        <area shape="rect" coords="308,11,356,58" href="http://www.jinjiang.com/hotel/bylhotel/" target="_blank" />
+        <area shape="rect" coords="377,9,423,55" href="http://www.jinjiang.com/hotel/jjinn/" target="_blank" />
+        <area shape="rect" coords="441,13,488,56" href="http://www.jinjiang.com/jinguang/" target="_blank" />
+        <area shape="rect" coords="509,15,558,56" href="http://www.jinjiang.com/hotel/bestayhotel/" target="_blank" />
+        <area shape="rect" coords="244,72,280,115" href="http://www.jinjiang.com/travel/shjjt/" target="_blank" />
+        <area shape="rect" coords="315,74,352,117" href="http://www.jinjiang.com/travel/sht/" target="_blank" />
+        <area shape="rect" coords="379,74,424,119" href="http://www.jinjiang.com/travel/shct/" target="_blank" />
+        <area shape="rect" coords="448,80,485,113" href="http://www.jinjiang.com/travel/" target="_blank" />
+        <area shape="rect" coords="511,74,555,114" href="http://www.jinjiang.com/auto/" target="_blank" />
+      </map></td>
+  </tr>
+    </table>
+    </div>
+</td>
+  </tr>
+  <tr>
+    <td valign="top"><br /><div style="font-size:12px; line-height:21px; color:#727171;">
+      1. 您之所以收到这封邮件，是因为您是锦江礼享会员。我们保证仅向您发送关于锦江国际集团的产品、促销活动及服务的 电子 <br />
+邮件。锦江礼享会尊重并保护您的隐私。如果您不想收到此邮件，请点击此处，<a href="http://club.jinjiang.com/memberInfo/mySubscription" target="_blank" style="color:#007ccb; text-decoration:underline;">取消订阅</a>。<br />
+2. 某些商品的价格或促销内容如有调整，请以网站(<a href="http://www.jinjiang.com/" target="_blank" style="color:#007ccb; text-decoration:underline;">www.jinjiang.com</a>)上最终页面为准。<br />
+3.任何问题欢迎致电联系客服中心：1010-1666，或访问帮助中心 。</div><br /></td>
+  </tr>
+</table>
+
+<map name="Map" id="Map">
+  <area shape="rect" coords="148,25,213,44" href="%%{websiteTrace}http://club.jinjiang.com/MyAccount/PointManagement/MyScores" target="_blank" />
+</map>
+</body>
+</html>

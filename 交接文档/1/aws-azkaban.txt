@@ -1,0 +1,39 @@
+﻿azkaban参考资料 http://blog.csdn.net/jinshuaiwang/article/details/40426743
+首先从s3下载azkaban-executor-server-2.5.0.tar.gz、azkaban-sql-script-2.5.0.tar.gz、azkaban-web-server-2.5.0.tar.gz并解压到相关目录
+进入mysql创建database(azkaban) --createa database azkaban
+GRANT ALL ON azkaban.* TO 'azkaban'@'ip-172-21-121-230.cn-north-1.compute.internal';
+CREATE USER 'azkaban'@'ip-172-21-121-230.cn-north-1.compute.internal' IDENTIFIED BY '123456';
+mysql执行create-all-sql-2.5.0.sql  --mysql –u用户名 –p密码 –D数据库<create-all-sql-2.5.0.sql
+生成keystore(keytool -keystore keystore -alias jetty -genkey -keyalg RSA)
+将文件放入azkaban-web-server的conf目录
+修改相关配置文件(所有配置文件已上传s3,s3://bigdata.jinjiang.com/azkaban/azkaban-web/azkaban.properties、s3://bigdata.jinjiang.com/azkaban/azkaban-web/azkaban-web-start.sh、s3://bigdata.jinjiang.com/azkaban/azkaban-executor/azkaban.properties、s3://bigdata.jinjiang.com/azkaban/azkaban-executor/azkaban-executor-start.sh)
+启动web和executor
+nohup bin/azkaban-web-start.sh ./ &
+nohup bin/azkaban-executor-start.sh ./ &
+上传任务(任务相关s3://bigdata.jinjiang.com/azkaban/test.zip)
+
+/conf/azkaban.properties 设置时区 default.timezone.id=Asia/Shanghai
+
+
+
+/home/hadoop/azkaban/azkaban-web-2.5.0/conf/azkaban.properties
+/home/hadoop/azkaban/azkaban-executor-2.5.0/conf
+azkaban已直接配置好,拷到aws集群(执行sql脚本后)直接能用
+
+zookeeper参考资料 http://blog.csdn.net/shatelang/article/details/7596007
+配置文件位置s3://bigdata.jinjiang.com/zookeeper/
+配置接口:clientPort=2181
+配置快照的位置:dataDir=/xxx/xxx/xxx
+启动zookeeper:zkServer.sh start
+相关配置文件都在跟目录
+
+
+kafka参考资料 http://www.aboutyun.com/thread-12882-1-1.html
+配置文件位置s3://bigdata.jinjiang.com/kafka/
+设置集群唯一的broker.id:broker.id=0
+设置监听端口:listeners=PLAINTEXT://:9092     port=9092
+设置主机的hostName:host.name=172.21.121.111
+连接zookeeper集群的地址:zookeeper.connect=127.0.0.1:2181
+启动kafka:bin/zookeeper-server-start.sh config/zookeeper.properties &
+bin/kafka-server-start.sh config/server.properties
+相关配置文件都在跟目录

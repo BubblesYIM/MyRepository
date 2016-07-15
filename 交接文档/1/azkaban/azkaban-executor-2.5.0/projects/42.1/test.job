@@ -1,0 +1,3 @@
+type=command
+working.dir=/home/hadoop
+command=/usr/lib/spark/bin/run-example org.apache.spark.examples.SparkPi

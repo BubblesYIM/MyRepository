@@ -1,0 +1,4 @@
+type=command
+command=hadoop_wxy jar lexus-1.0-SNAPSHOT.jar com.jje.bigdata.travel.tourtag.TagToTourismNEW
+working.dir=/home/member/bigdata
+dependencies=004_tagto_travel
